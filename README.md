@@ -2,7 +2,7 @@
 
 This repository contains all of the python code implementations for each topic in the course outline for Data Science 2
 
-Course Outline: 
+Course Outline: https://believed-bongo-319.notion.site/CCDATS2C-c21f48635e46425b8a3d5b59cc9c06cd?pvs=4
 
 | Topic | Description | 
 | :---: | :---: |       
