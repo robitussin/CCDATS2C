@@ -6,13 +6,11 @@ Course Outline:
 
 | Topic | Description | 
 | :---: | :---: |       
-| 1 - Review on machine learning concepts | |
-| 2 - Generative versus Discriminative | |
-| 3 - Feature Selection Algorithm |  |
-| 4 - Introduction to Unsupervised Approach |  |
-| 5 - Types of Clustering and discussion of sample of clustering algorithm |  |
-| 6 - Principal Component Analysis | |
-| 7 - Association | |
-| 8 - Dimensionality Reduction | |
+| 1 - Review of Data Science Foundation Concepts | |
+| 2 - Data Science Project Formulation | |
+| 3 - Model Interpretability |  |
+| 4 - Working with Anomalies |  |
+| 5 - Working with Time Series |  |
+| 6 - Data Communication  | |
 
 
